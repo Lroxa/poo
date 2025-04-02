@@ -7,5 +7,6 @@ public class Main {
 
         myCar.accelerate();
         myCar.brake();
+        mySecondCar.accelerate();
     }
 }
